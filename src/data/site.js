@@ -73,7 +73,11 @@ export const topics = [
       "A three lesson course on how things move in one and two dimensions: displacement, velocity, acceleration and motion graphs, with guided practice problems.",
     goals:
       "Describe and analyze motion, calculate speed, velocity and acceleration, solve motion problems with algebra, and read motion graphs.",
-    lessons: makeLessons(3),
+     lessons: [
+      { title: "Lesson 1: Describing Motion, Concepts and Motion Graphs", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 2: 1D Motion, Kinematic Equations and Constant Acceleration", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 3: 2D Motion, Projectile Motion", videoId: "", worksheetUrl: "" },
+    ],
   },
   {
     id: "artemis",

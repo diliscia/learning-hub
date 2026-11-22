@@ -19,6 +19,8 @@
 * [ ] Difficulty level and grade tags on each topic
 * [ ] Contact section for tutoring requests
 * [ ] Support for other subjects beyond math and physics
+* [ ] Compact lesson list on each course page, with each video opening only when the learner selects it
+* [ ] Smaller video players and a clearer layout for lessons with a video and a worksheet
 
 ## Quality
 
@@ -30,4 +32,4 @@
 ## Publishing
 
 * [ ] Publish the site online
-* [ ] Add a custom domain
+* [ ] Add a custom domain   

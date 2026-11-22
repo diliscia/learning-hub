@@ -124,3 +124,15 @@ a.card:hover {
   margin: 0;
   opacity: 0.8;
 }
+
+.section h1 {
+  text-align: center;
+}
+
+.section p {
+  text-align: justify;
+}
+
+.work p {
+  text-align: center;
+}

@@ -83,6 +83,8 @@ export const topics = [
       "A one lesson course that uses real data from the NASA Artemis II mission to apply physics formulas to escape velocity, orbital speed, gravity, energy and travel time.",
     goals:
       "Calculate escape velocity and orbital speed, find gravitational acceleration on different planets, work out energy values from data, and use formulas with the correct units.",
-    lessons: makeLessons(1),
+        lessons: [
+      { title: "The Physics Behind Space Exploration", videoId: "", worksheetUrl: "" },
+    ],
   },
 ];

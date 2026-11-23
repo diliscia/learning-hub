@@ -31,7 +31,11 @@ export const topics = [
       "A three lesson course on solving and graphing inequalities, from simple to compound, with step by step explanations and guided practice.",
     goals:
       "Solve and graph one step, multi step and compound inequalities, read solutions on a number line, and use inequalities in word problems.",
-    lessons: makeLessons(3),
+     lessons: [
+      { title: "Lesson 1: Solving and Graphing Linear Inequalities", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 2: Compound Inequalities", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 3: Inequality Word Problems", videoId: "", worksheetUrl: "" },
+    ],
   },
   {
     id: "factoring",

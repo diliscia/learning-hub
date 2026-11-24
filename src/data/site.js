@@ -92,7 +92,7 @@ export const topics = [
     goals:
       "Calculate escape velocity and orbital speed, find gravitational acceleration on different planets, work out energy values from data, and use formulas with the correct units.",
         lessons: [
-      { title: "The Physics Behind Space Exploration", videoId: "", worksheetUrl: "" },
+           { title: "The Physics Behind Space Exploration", videoId: "94nHQ9eHrmQ", worksheetUrl: "" },
     ],
   },
 ];

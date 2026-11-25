@@ -78,9 +78,9 @@ export const topics = [
     goals:
       "Describe and analyze motion, calculate speed, velocity and acceleration, solve motion problems with algebra, and read motion graphs.",
      lessons: [
-      { title: "Lesson 1: Describing Motion, Concepts and Motion Graphs", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 2: 1D Motion, Kinematic Equations and Constant Acceleration", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 3: 2D Motion, Projectile Motion", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 1: Describing Motion, Concepts and Motion Graphs", videoId: "uu5k7x95Aow", worksheetUrl: "" },
+      { title: "Lesson 2: 1D Motion, Kinematic Equations and Constant Acceleration", videoId: "3z-qGO_u-Wo", worksheetUrl: "" },
+      { title: "Lesson 3: 2D Motion, Projectile Motion", videoId: "jzZDheao5cQ", worksheetUrl: "" },
     ],
   },
   {

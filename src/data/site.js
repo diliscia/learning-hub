@@ -46,11 +46,11 @@ export const topics = [
     goals:
       "Factor out the greatest common factor, factor simple and complex trinomials, and recognize special patterns such as the difference of squares.",
         lessons: [
-      { title: "Lesson 1: Introduction to Factoring and the Greatest Common Factor", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 2: Factoring Simple Trinomials (a = 1)", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 3: Factoring Complex Trinomials (a ≠ 1)", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 4: Difference of Squares and Perfect Square Trinomials", videoId: "", worksheetUrl: "" },
-      { title: "Lesson 5: Factoring Practice with Mixed Problems", videoId: "", worksheetUrl: "" },
+      { title: "Lesson 1: Introduction to Factoring and the Greatest Common Factor", videoId: "RFB38s6Su7A", worksheetUrl: "" },
+      { title: "Lesson 2: Factoring Simple Trinomials (a = 1)", videoId: "QKtaZVCM28o", worksheetUrl: "" },
+      { title: "Lesson 3: Factoring Complex Trinomials (a ≠ 1)", videoId: "eFnEb_q7ACo", worksheetUrl: "" },
+      { title: "Lesson 4: Difference of Squares and Perfect Square Trinomials", videoId: "_Yl88_JYLDw", worksheetUrl: "" },
+      { title: "Lesson 5: Factoring Practice with Mixed Problems", videoId: "siQWkh3qnVQ", worksheetUrl: "" },
     ],
   },
   {
